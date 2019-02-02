@@ -2,7 +2,7 @@
 
 ## Fullstack JavaScript
 
-Course site: https://fullstackjs.netlify.com/
+Course site: https://fullstackjs.netlify.com/  
 Github Repos: https://github.com/sem4-fullstack-javascript/Fullstack-JavaScript
 
 ## Games with Unity
