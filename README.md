@@ -4,7 +4,7 @@
 https://github.com/NikolajX4000/Fullstack-JavaScript
 
 ## Games with Unity
-https://github.com/NikolajX4000/Games
+https://github.com/sem4-games-with-unity/Games
 
 ## Python
 
