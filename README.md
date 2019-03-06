@@ -2,13 +2,13 @@
 
 ## Fullstack JavaScript
 
-Course site: https://fullstackjs.netlify.com/  
-Github Repos: https://github.com/sem4-fullstack-javascript/Fullstack-JavaScript
+Course site: [Course site](https://fullstackjs.netlify.com/)  
+Github Repos: [Repos](https://github.com/sem4-fullstack-javascript/Fullstack-JavaScript)
 
 ## Games with Unity
 
-Github Repos: https://github.com/sem4-games-with-unity/Games
+Github Repos: [Repos](https://github.com/sem4-games-with-unity/Games)
 
 ## Python
 
-Github Repos: https://github.com/sem4-python/Python
+Github Repos: [Repos](https://github.com/sem4-python/Python)
