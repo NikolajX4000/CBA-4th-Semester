@@ -7,7 +7,7 @@ Github Repos: [Repos](https://sem4-fullstack-javascript.github.io/Fullstack-Java
 
 ## Games with Unity
 
-Github Repos: [Repos](https://github.com/sem4-games-with-unity/Games)
+Github Repos: [Repos](https://sem4-games-with-unity.github.io/Games/)
 
 ## Python
 
