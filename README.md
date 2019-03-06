@@ -11,4 +11,4 @@ Github Repos: [Repos](https://sem4-games-with-unity.github.io/Games/)
 
 ## Python
 
-Github Repos: [Repos](https://github.com/sem4-python/Python)
+Github Repos: [Repos](https://sem4-python.github.io/Python/)
